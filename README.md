@@ -14,6 +14,10 @@ Download via command line:
 
 `curl -o sorted_cities.json https://raw.githubusercontent.com/ryanschiang/2021-us-cities-population/main/sorted_cities.json`
 
+## Source
+
+This data comes from the [2020-21 US Census Population Estimates Program](https://www.census.gov/data/tables/time-series/demo/popest/2020s-total-cities-and-towns.html).
+
 ## Sample Data
 
 ```
