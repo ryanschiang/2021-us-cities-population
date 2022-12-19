@@ -20,11 +20,7 @@
     { "city": "Hempstead town", "state": "NY", "population": 790982 },
     { "city": "Seattle", "state": "WA", "population": 733919 },
     { "city": "Denver", "state": "CO", "population": 711463 },
-    {
-      "city": "Nashville-Davidson",
-      "state": "TN",
-      "population": 703953
-    },
+    { "city": "Nashville-Davidson", "state": "TN", "population": 703953 },
     { "city": "Oklahoma City", "state": "OK", "population": 687725 },
     { "city": "El Paso", "state": "TX", "population": 678415 },
     { "city": "Boston", "state": "MA", "population": 654776 },
