@@ -7,6 +7,13 @@ This is a JSON file containing `28,883` US cities and populations, sorted by pop
 
 In total, this list covers 81% of the U.S. population (~269.9 million total).
 
+File size is 1.7 mb and contains ~45.5k lines.
+## Usage
+
+Download via command line:
+
+`curl -o sorted_cities.json https://raw.githubusercontent.com/ryanschiang/2021-us-cities-population/main/sorted_cities.json`
+
 ## Sample Data
 
 ```
