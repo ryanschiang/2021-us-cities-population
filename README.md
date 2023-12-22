@@ -12,7 +12,7 @@ File size is 1.7 mb and contains ~45.5k lines.
 
 Download via command line:
 
-`curl -o sorted_cities.json https://raw.githubusercontent.com/ryanschiang/2021-us-cities-population/main/sorted_cities.json`
+`curl -o sorted_cities.json https://raw.githubusercontent.com/ryanschiang/us-cities-population/main/sorted_cities.json`
 
 ## Source
 
